@@ -1,0 +1,13 @@
+[DefaultComputer]
+DefaultHeader=Third Echelon DOS\nC)Copyright Ubi Soft Ent. 2002
+
+[22KALINATEK]
+Header=AUTOMATED EMERGENCY RESPONSE SYSTEM\n
+
+Prompt=Z:\>
+UserLine=USER/Administrator
+TextResponse=User Administrator accepted, please enter password...\n
+
+Prompt2=Password: 
+UserLine2=**********
+TextResponse2=Password accepted, user Administrator logged in.
