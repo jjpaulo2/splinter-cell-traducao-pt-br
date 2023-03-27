@@ -20,7 +20,8 @@ A razão pra isto, é devido ao nome dos arquivos exportados. Deveriam ser expor
 > Esta tradução foi testada na versão [Steam](https://store.steampowered.com/app/13560/Tom_Clancys_Splinter_Cell/). Não garanto que possa funcionar em outras versões.
 
 - Recomendo fazer um backup dos arquivos originais do jogo antes da instalação (se você usar a versão Steam é dispensável).
-- Extraia a pasta `system` na raiz da instalação do jogo (por exemplo `steamapps\common\Splinter Cell`).
+- Acesse [este link](https://github.com/jjpaulo2/splinter-cell-traducao-pt-br/releases) e baixe o arquivo **Traducao.PT-BR.zip**.
+- Extraia o arquivo compactado na raiz da instalação do jogo (por exemplo `steamapps\common\Splinter Cell`).
 - Abra o jogo e aproveite! ;)
 
 ### Bugs conhecidos
